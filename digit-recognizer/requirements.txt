@@ -1,0 +1,5 @@
+git+https://github.com/keras-team/keras-tuner.git@1.0.2rc1
+autokeras==1.0.5
+numpy==1.18.5
+scipy==1.4.1
+ipykernel==5.3.4
