@@ -3,3 +3,4 @@ autokeras==1.0.5
 numpy==1.18.5
 scipy==1.4.1
 ipykernel==5.3.4
+kaggle==1.5.3
